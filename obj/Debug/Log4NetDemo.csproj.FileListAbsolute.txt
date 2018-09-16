@@ -1,0 +1,9 @@
+D:\GitHub\Log4NetDemo\Log4NetDemo\bin\Debug\Log4NetDemo.exe.config
+D:\GitHub\Log4NetDemo\Log4NetDemo\bin\Debug\Log4NetDemo.exe
+D:\GitHub\Log4NetDemo\Log4NetDemo\bin\Debug\Log4NetDemo.pdb
+D:\GitHub\Log4NetDemo\Log4NetDemo\bin\Debug\log4net.dll
+D:\GitHub\Log4NetDemo\Log4NetDemo\bin\Debug\log4net.xml
+D:\GitHub\Log4NetDemo\Log4NetDemo\obj\Debug\Log4NetDemo.exe
+D:\GitHub\Log4NetDemo\Log4NetDemo\obj\Debug\Log4NetDemo.pdb
+D:\GitHub\Log4NetDemo\Log4NetDemo\bin\Debug\log4net.config
+D:\GitHub\Log4NetDemo\Log4NetDemo\obj\Debug\Log4NetDemo.csprojResolveAssemblyReference.cache
