@@ -1,4 +1,6 @@
 # Log4NetDemo
+开发工具：vs2019
+
 ## Log4NetDemo项目
 基于log4net记录日志到sqlserver中，参考地址：https://www.cnblogs.com/zhaorong0912/p/9655130.html
 
